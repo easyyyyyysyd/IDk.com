@@ -1,3 +1,3 @@
 <html> 
-<head>BMW<center></head>
-<h1>Sedans life</h1></html>
+<head>BMW<center>
+<h1>Sedans life</h1>
